@@ -1,1 +1,1 @@
-My name is Nicolas ! Adding some text to notes.txt !
+Yo, i am new to node.js
