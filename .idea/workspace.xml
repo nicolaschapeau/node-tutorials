@@ -2,96 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cedeb8fb-f66e-4681-9be0-900f7222ff3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/alpha.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/blacklist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/contains.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/equals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/escape.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isAfter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isAlpha.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isAlphanumeric.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isAscii.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isBase64.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isBefore.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isBoolean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isByteLength.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isCreditCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isCurrency.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isDataURI.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isDecimal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isDivisibleBy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isEmail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isEmpty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isFQDN.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isFloat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isFullWidth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isHalfWidth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isHash.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isHexColor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isHexadecimal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isIP.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isIPRange.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isISBN.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isISIN.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isISO31661Alpha2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isISO31661Alpha3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isISO8601.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isISRC.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isISSN.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isIdentityCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isIn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isInt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isJSON.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isJWT.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isLatLong.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isLength.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isLowercase.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isMACAddress.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isMD5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isMagnetURI.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isMimeType.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isMobilePhone.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isMongoId.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isMultibyte.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isNumeric.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isPort.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isPostalCode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isRFC3339.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isSurrogatePair.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isURL.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isUUID.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isUppercase.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isVariableWidth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/isWhitelisted.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/ltrim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/matches.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/normalizeEmail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/rtrim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/stripLow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/toBoolean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/toDate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/toFloat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/toInt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/trim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/unescape.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/util/assertString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/util/includes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/util/merge.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/util/toString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/lib/whitelist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/validator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/node_modules/validator/validator.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes-app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/notes-app/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-app/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notes-app/notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/notes-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/notes-app/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -109,8 +24,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/notes-app/app.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="130">
-                  <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+                <state relative-caret-position="234">
+                  <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
                 </state>
               </provider>
             </entry>
@@ -119,20 +34,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/notes-app/notes.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="130">
-                  <caret line="5" selection-start-line="5" selection-end-line="5" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/.gitignore">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="26">
-                  <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+                  <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
                 </state>
               </provider>
             </entry>
@@ -158,8 +64,8 @@
         <option value="$PROJECT_DIR$/notes-app/notes.txt" />
         <option value="$PROJECT_DIR$/notes-app/utils.js" />
         <option value="$PROJECT_DIR$/notes-app/notes.js" />
-        <option value="$PROJECT_DIR$/notes-app/app.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/notes-app/app.js" />
       </list>
     </option>
   </component>
@@ -174,7 +80,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,6 +96,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,16 +135,18 @@
       <workItem from="1552469696035" duration="1568000" />
       <workItem from="1552512366122" duration="1245000" />
       <workItem from="1552513746435" duration="59000" />
+      <workItem from="1552513892112" duration="38000" />
+      <workItem from="1552552962720" duration="2106000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3092000" />
+    <option name="totallyTimeSpent" value="5236000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -250,7 +158,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32937366" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -295,24 +203,29 @@
     <entry file="file://$PROJECT_DIR$/notes-app/package-lock.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes-app/node_modules/chalk/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3952" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/notes-app/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        <state relative-caret-position="234">
+          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/notes-app/notes.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>

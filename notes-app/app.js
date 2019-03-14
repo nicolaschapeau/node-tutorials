@@ -1,7 +1,11 @@
-const validator = require('validator')
+const chalk = require('chalk')
 const getNotes = require('./notes.js')
 
 const msg = getNotes()
-const url = validator.isURL('http://welcome.com')
+console.log(msg)
 
-console.log(url)
+const greenSuccess = chalk.red('error')
+console.log(greenSuccess)
+
+const greenInversedBold = chalk.red.bold.inverse('error')
+console.log(greenInversedBold)
