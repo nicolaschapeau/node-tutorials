@@ -12,7 +12,7 @@ MongoClient.connect(connectionURL, { useNewUrlParser: true }, (error, client) =>
   }
 
   // Set database name
-  const db = client.db(databaseName)
+	const db = client.db(databaseName)
 
   db.collection('users')
     .deleteMany({
