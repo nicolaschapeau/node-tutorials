@@ -7,13 +7,16 @@ const app = express()
 const port = process.env.PORT || 3000
 
 
+
+// Accept json requests
+app.use(express.json())
+
+
+
 // Routes
 app.use(userRouter)
 app.use(taskRouter)
 
-
-// Accept json requests
-app.use(express.json())
 
 
 // Listen server
